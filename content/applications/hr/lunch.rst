@@ -318,6 +318,7 @@ lunch alert form loads. Enter the following information on the form:
          asking employees to submit orders by 11:30 AM.
 
 .. seealso::
+   - :doc:`lunch/products`
    - :doc:`lunch/orders`
    - :doc:`lunch/user-accounts`
    - :doc:`lunch/management`
@@ -325,6 +326,7 @@ lunch alert form loads. Enter the following information on the form:
 .. toctree::
    :titlesonly:
 
+   lunch/products
    lunch/orders
    lunch/user-accounts
    lunch/management
